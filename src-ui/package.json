@@ -52,7 +52,7 @@
     "@angular-eslint/template-parser": "19.0.0",
     "@angular/cli": "~19.0.4",
     "@angular/compiler-cli": "~19.0.3",
-    "@codecov/webpack-plugin": "^1.2.1",
+    "@codecov/webpack-plugin": "^1.8.0",
     "@playwright/test": "^1.48.2",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.8.6",
